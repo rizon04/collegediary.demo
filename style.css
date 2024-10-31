@@ -18,13 +18,10 @@ body {
 header {
     background-color: #0073e6;
     color: white;
-    padding: 10px;
+    padding: 20px;
     text-align: center;
 }
-header h1 {
-    font-size: 20px; /* Adjusted font size for smaller appearance */
-    margin: 0;
-}
+
 nav {
     background-color: #005bb5;
     padding: 15px;
@@ -82,7 +79,7 @@ nav ul li a:hover {
 }
 
 .intro h1 {
-    font-size: 20px;
+    font-size: 24px;
 }
 
 .intro p {
